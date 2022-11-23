@@ -7,3 +7,5 @@
 	3. desde tools creamos el JavaDoc dentro de la carpeta anterior
 	4. nos aseguramos de que este todo correctamente
 	5.Listo JavaDoc creado
+
+[enlace al Java Doc](file:///Users/marcosfa/Documents/Dam1/COD/practica_Reformatear/Circulo/JavaDoc/Circulo.html)
